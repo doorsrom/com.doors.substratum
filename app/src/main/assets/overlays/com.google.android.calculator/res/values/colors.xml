@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="calculator_accent_color">@android:color/holo_blue_light</color>
+  <color name="calculator_clear_flood">@android:color/holo_blue_light</color>
+  <color name="calculator_error_flood">#c62828</color>
+  <color name="calculator_error_text_color">#c62828</color>
+  <color name="calculator_primary_color">#eaeaea</color>
+  <color name="calculator_statusbar_color">#eaeaea</color>
+  <color name="display_background_color">#eaeaea</color>
+  <color name="notification_icon_bg_color">@android:color/holo_blue_light</color>
+  <color name="pad_button_text_color">#000000</color>
+  <color name="pad_advanced_background_color">#f4f4f4</color>
+  <color name="pad_numeric_background_color">#fbfbfb</color>
+  <color name="pad_operator_background_color">#fbfbfb</color>
+</resources>
