@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="24dp"
+    android:orientation="vertical">
+
+    <com.doors.styles.FirstMenuItem
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="closeNavBar"
+        android:text="@android:string/untitled" />
+
+    <com.doors.styles.MenuItem
+        android:id="@+id/one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuClick"
+        android:text="@android:string/untitled" />
+
+    <com.doors.styles.MenuItem
+        android:id="@+id/two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuClick"
+        android:text="@android:string/untitled" />
+
+    <com.doors.styles.MenuItem
+        android:id="@+id/three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuClick"
+        android:text="@android:string/untitled" />
+</LinearLayout>

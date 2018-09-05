@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doors for Substratum</string>
+    <string name="text">Doors for Substratum gives you the opportunity to apply the flat and minimalistic design of our ROM to other apps.</string>
+    <string name="OpenSubs">Open Substratum</string>
+    <string name="ShowRepo">Show source code</string>
+    <string name="ShortcutDisabled">Disabled</string>
+</resources>
